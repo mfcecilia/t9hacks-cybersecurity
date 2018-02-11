@@ -1,0 +1,42 @@
+scan command and control server at myloot.com for running services.
+
+identify a vulnerable service.
+
+perform a brute force attack to obtain credentials.
+
+kill the web server acting as the command and control orchestrator.
+
+the admin account is "admin" for myloot.com
+
+maintain network availability for 4 hours (8 hours max)
+
+
+credentials:
+user1
+P@ssedU1
+
+tools:
+nmap
+thc hydra
+patator
+john-the-ripper
+kali linux distribution tools
+metaspoit framework
+ssh terminal
+vnc terminal
+
+references:
+news
+https://www.darkreading.com/attacks-and-breaches/zeus-botnet-eurograbber-steals-$47-million/d/d-id/1107673
+general
+https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
+botnets
+https://www.welivesecurity.com/2014/10/22/botnet-malware-fight/
+linux cli
+https://udaygade.files.wordpress.com/2015/04/linux-bible-by-christopher-negus.pdf
+windows service/processes
+https://www.sans.org/reading-room/whitepapers/forensics/name-uncover-meaning-windows-files-processes-33849
+kali linux penetration tools
+https://docs.kali.org/
+metasploit tutorial
+https://jonathansblog.co.uk/metasploit-tutorial-for-beginners
